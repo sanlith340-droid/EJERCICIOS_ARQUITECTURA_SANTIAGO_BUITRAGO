@@ -12,3 +12,5 @@ git config user.email "sanlith340@gmail.com"
 abrir en la carpeta donde esta trabajando la terminal 
 
 git clone "link del repositorio "
+
+EXTRA: no olvidar borra credenciales de la pc 
